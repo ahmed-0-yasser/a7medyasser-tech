@@ -2,8 +2,7 @@
 
 ## Junior Back-End Developer | .NET
 
-Computer and Information Technology Student passionate about building scalable backend systems using .NET technologies.
-
+Junior Back-End Developer specialized in building scalable APIs and backend systems using .NET technologies.
 ---
 
 ##  About Me
