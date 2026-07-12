@@ -1,20 +1,30 @@
-<h1 align="center">Hi 👋, I'm Ahmed Yasser</h1>
+<div align="center">
 
-<h3 align="center">Junior Back-End Developer | .NET | ASP.NET Core Web API</h3>
+# Hi 👋 I'm Ahmed Yasser
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Junior+Backend+Developer;ASP.NET+Core+Web+API+Developer;Building+Scalable+Backend+Systems;Always+Learning+New+Technologies" />
+### Junior Back-End Developer | .NET | ASP.NET Core | Web API | SQL Server
+
+Building scalable, secure and production-ready backend systems.
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=a7medyasser-tech&label=Profile%20Views&color=blue&style=for-the-badge"/>
 </p>
+
+</div>
 
 ---
 
 # 💫 About Me
 
-- 🎓 Information Technology Graduate from **The Egyptian E-Learning University (EELU)**
-- 💻 Junior Backend Developer specialized in **ASP.NET Core**
-- 🚀 Passionate about Backend Development & Software Engineering
-- 🏗 Building scalable RESTful APIs using .NET
-- 📚 Currently improving my skills in Clean Architecture and Enterprise Backend Development
+🎓 Information Technology Graduate – Egyptian E-Learning University (EELU)
+
+💻 Junior Backend Developer specializing in ASP.NET Core & REST APIs
+
+🚀 Passionate about Software Engineering and Backend Development
+
+🧠 Interested in Clean Architecture, System Design and AI Integration
+
+📚 Currently building production-style backend applications using .NET
 
 ---
 
@@ -23,15 +33,15 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/ahmed-0-yasser">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://github.com/a7medyasser-tech">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
 <a href="mailto:ahmedyasirmohammad@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://img.icons8.com/color/48/gmail-new.png"/>
+</a>
+
+<a href="https://github.com/a7medyasser-tech">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
 </p>
@@ -40,54 +50,55 @@
 
 # 💻 Tech Stack
 
-### Backend
+## Languages
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio"/>
+<img src="https://skillicons.dev/icons?i=cs"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=js"/>
 
 </p>
-
-- ASP.NET Core Web API
-- ASP.NET Core MVC
-- Entity Framework Core
-- LINQ
-- RESTful APIs
-- Dependency Injection
-- JWT Authentication
-- ASP.NET Identity
 
 ---
 
-### Database
+## Backend
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=dotnet"/>
+
+<img src="https://skillicons.dev/icons?i=visualstudio"/>
+
+<img src="https://skillicons.dev/icons?i=postman"/>
 
 </p>
-
-- SQL Server
-- Entity Framework Core
-- Database Design
-- Code First
-- Migrations
 
 ---
 
-### Tools
+## Database
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,postman"/>
+<img src="https://img.shields.io/badge/SQL_Server-red?style=for-the-badge&logo=microsoftsqlserver"/>
+
+<img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge"/>
 
 </p>
 
-- Visual Studio 2022
-- Swagger
-- Git
-- GitHub
-- Postman
+---
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+</p>
 
 ---
 
@@ -95,31 +106,53 @@
 
 ## 🦴 Skeletix
 
-AI-Powered Bone Fracture Detection System built with ASP.NET Core Web API, SQL Server, Entity Framework Core, JWT Authentication, AI Integration, and Dashboard Analytics.
+Production-style AI Healthcare Backend.
+
+✔ ASP.NET Core Web API
+
+✔ Entity Framework Core
+
+✔ SQL Server
+
+✔ JWT Authentication
+
+✔ AI Integration
+
+✔ Medical Reports
 
 ---
 
 ## 🍽 Restaurant API
 
-Production-style Restaurant Management Backend API featuring Authentication, Role-Based Authorization, Orders, Menu, Reviews, Dashboard, and SQL Server.
+Restaurant Management System Backend.
+
+✔ Authentication
+
+✔ Orders
+
+✔ Cart
+
+✔ Reviews
+
+✔ Dashboard
+
+✔ SQL Server
 
 ---
 
 ## 🛒 SmartShop
 
-Full-stack E-Commerce Web Application developed using ASP.NET Core MVC, Entity Framework Core, SQL Server, ASP.NET Identity, Bootstrap, and JavaScript.
+E-Commerce ASP.NET MVC Project.
 
----
+✔ ASP.NET MVC
 
-## 🎓 Student Management System
+✔ SQL Server
 
-Desktop Application built with Java for managing students, courses, and academic records.
+✔ Entity Framework Core
 
----
+✔ Identity
 
-## 🏥 Hospital Management System
-
-Java Swing Desktop Application for hospital management, including patients, doctors, appointments, and medical records.
+✔ Shopping Cart
 
 ---
 
@@ -127,9 +160,9 @@ Java Swing Desktop Application for hospital management, including patients, doct
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=a7medyasser-tech&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=a7medyasser-tech&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7medyasser-tech&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7medyasser-tech&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -145,7 +178,17 @@ Java Swing Desktop Application for hospital management, including patients, doct
 
 ---
 
-# 📈 GitHub Activity Graph
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=a7medyasser-tech&theme=tokyonight&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -155,39 +198,20 @@ Java Swing Desktop Application for hospital management, including patients, doct
 
 ---
 
-# 🏆 GitHub Trophies
+# 🐍 Contribution Snake
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=a7medyasser-tech&theme=tokyonight&margin-w=15&margin-h=15"/>
+<img src="https://raw.githubusercontent.com/a7medyasser-tech/a7medyasser-tech/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
 ---
 
-# 💡 Currently Learning
+<div align="center">
 
-- Clean Architecture
-- CQRS
-- MediatR
-- Docker
-- Redis
-- SignalR
-- Unit Testing
-- Azure
+### 💙 Thanks for visiting my profile!
 
----
+Always learning and building scalable backend systems with .NET.
 
-# 📫 Contact
-
-- 📧 Email: **ahmedyasirmohammad@gmail.com**
-- 💼 LinkedIn: **https://www.linkedin.com/in/ahmed-0-yasser**
-- 💻 GitHub: **https://github.com/a7medyasser-tech**
-
----
-
-<p align="center">
-
-⭐ If you like my work, don't forget to star my repositories!
-
-</p>
+</div>
