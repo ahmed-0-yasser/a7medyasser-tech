@@ -9,6 +9,12 @@
 </p>
 
 <p align="center">
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web_API-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+<p align="center">
 Building scalable, secure, and maintainable backend systems using ASP.NET Core, SQL Server, and modern .NET technologies.
 </p>
 
