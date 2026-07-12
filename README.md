@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/a7medyasser-tech/a7medyasser-tech/main/banner.jpeg" width="100%">
+  <img src="https://raw.githubusercontent.com/a7medyasser-tech/a7medyasser-tech/main/banner.png" width="100%" alt="Ahmed Yasser Banner"/>
 </p>
 
 <h1 align="center">Ahmed Yasser</h1>
@@ -9,25 +9,8 @@ Junior Back-End Developer | .NET
 </h3>
 
 <p align="center">
-Building scalable, secure, and maintainable backend systems using ASP.NET Core and SQL Server.
+Building scalable, secure, and maintainable backend systems using ASP.NET Core, SQL Server, and modern .NET technologies.
 </p>
-
----
-
----
-
-# 💫 About Me
-
-- 🎓 Information Technology Graduate from **The Egyptian E-Learning University (EELU)**
-- 💻 Junior Backend Developer specialized in **ASP.NET Core**
-- 🚀 Passionate about Backend Development & Software Engineering
-- 🧠 Interested in Clean Architecture, REST APIs and Database Design
-- 🤖 Experienced integrating AI services with Backend Systems
-- 📚 Currently improving my .NET, System Design, and Software Architecture skills
-
----
-
-# 🌐 Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ahmed-0-yasser">
@@ -45,74 +28,54 @@ Building scalable, secure, and maintainable backend systems using ASP.NET Core a
 
 ---
 
+# 💫 About Me
+
+- 🎓 Information Technology Graduate from **The Egyptian E-Learning University (EELU)**
+- 💻 Junior Backend Developer specialized in **ASP.NET Core**
+- 🚀 Passionate about Backend Development & Software Engineering
+- 🧠 Interested in Clean Architecture, REST APIs, and Database Design
+- 🤖 Experienced integrating AI services with Backend Systems
+- 📚 Currently improving my .NET, System Design, Software Architecture, and Cloud skills
+
+---
+
 # 💻 Tech Stack
 
-## Backend
+### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,postman" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web_API-512BD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Entity_Framework_Core-68217A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
 </p>
 
 ### Database
 
-<p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+<p align="center">
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
 </p>
 
 ### Authentication
 
-<p>
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
+<p align="center">
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens"/>
 <img src="https://img.shields.io/badge/ASP.NET_Identity-512BD4?style=for-the-badge"/>
 </p>
 
 ### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,postman" />
-</p>
-
----
-
-# 📊 GitHub Stats
-
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=a7medyasser-tech&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7medyasser-tech&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=a7medyasser-tech&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=a7medyasser-tech&theme=tokyonight&row=1&column=7"/>
-
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=a7medyasser-tech&style=for-the-badge&color=blue"/>
-
+<img src="https://skillicons.dev/icons?i=git,github,postman,swagger,bootstrap,vscode,visualstudio" />
 </p>
 
 ---
@@ -131,6 +94,7 @@ AI-Powered Bone Fracture Detection System.
 - JWT Authentication
 - AI Integration
 - Swagger
+- REST API
 
 ---
 
@@ -140,19 +104,23 @@ Production-style Restaurant Management Backend.
 
 ### Features
 
-- Authentication
-- Authorization
+- Authentication & Authorization
+- Role-Based Access
+- Menu Management
+- Categories
+- Shopping Cart
 - Orders
-- Cart
 - Reviews
 - Dashboard
-- Roles & Permissions
+- Clean REST APIs
 
 ### Technologies
 
 - ASP.NET Core Web API
-- SQL Server
 - Entity Framework Core
+- SQL Server
+- JWT
+- Swagger
 
 ---
 
@@ -163,10 +131,11 @@ Full-stack E-Commerce Application.
 ### Features
 
 - Authentication
-- Products
+- Product Management
 - Categories
 - Shopping Cart
 - Orders
+- ASP.NET Identity
 
 ### Technologies
 
@@ -174,6 +143,35 @@ Full-stack E-Commerce Application.
 - Entity Framework Core
 - SQL Server
 - Bootstrap
+- jQuery
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=a7medyasser-tech&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7medyasser-tech&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Contribution Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=a7medyasser-tech&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=a7medyasser-tech&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
 
 ---
 
@@ -181,10 +179,10 @@ Full-stack E-Commerce Application.
 
 - 🍽 Restaurant Management System
 - 🤖 AI Integration with ASP.NET Core
-- 🏥 Healthcare Systems
-- ☁ Learning Cloud Deployment
+- ☁ Cloud Deployment
 - 🏗 Clean Architecture
-- ⚙ Learning Microservices
+- ⚙ Microservices
+- 🚀 Improving Software Design Skills
 
 ---
 
@@ -211,15 +209,23 @@ Full-stack E-Commerce Application.
 # 🐍 Contribution Snake
 
 <p align="center">
-
 <img src="https://raw.githubusercontent.com/a7medyasser-tech/a7medyasser-tech/output/github-contribution-grid-snake.svg"/>
-
 </p>
 
 ---
 
-### ❤️ Thanks for visiting my profile!
+# 👀 Profile Views
 
-⭐ If you like my projects, don't forget to leave a Star.
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=a7medyasser-tech&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
 
-Happy Coding 🚀
+---
+
+<h3 align="center">
+❤️ Thanks for visiting my profile!
+</h3>
+
+<p align="center">
+If you like my projects, don't forget to ⭐ Star them.
+</p>
