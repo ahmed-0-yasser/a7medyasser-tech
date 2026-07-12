@@ -43,9 +43,9 @@ Computer and Information Technology Student passionate about building scalable b
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🦴 Skeletix - AI Bone Fracture Detection System
+###  Skeletix - AI Bone Fracture Detection System
 
 Backend API for an AI-powered medical system that analyzes X-ray images and generates fracture detection reports.
 
@@ -58,7 +58,7 @@ Backend API for an AI-powered medical system that analyzes X-ray images and gene
 
 ---
 
-### 🍽️ Restaurant API
+###  Restaurant API
 
 Complete backend system for restaurant management.
 
@@ -79,7 +79,7 @@ Technologies:
 
 ---
 
-### 🛒 SmartShop
+###  SmartShop
 
 E-commerce system built using ASP.NET Core MVC.
 
