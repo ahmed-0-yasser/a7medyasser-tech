@@ -4,9 +4,9 @@
 
 <h1 align="center">Ahmed Yasser</h1>
 
-<h3 align="center">
-Junior Back-End Developer | .NET
-</h3>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Junior+Back-End+Developer;ASP.NET+Core+Developer;.NET+Web+API+Developer;SQL+Server+%7C+Entity+Framework+Core;Always+Learning+New+Technologies" />
+</p>
 
 <p align="center">
 Building scalable, secure, and maintainable backend systems using ASP.NET Core, SQL Server, and modern .NET technologies.
