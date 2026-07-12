@@ -93,12 +93,4 @@ Java Swing Desktop Application.
 <img src="https://streak-stats.demolab.com?user=a7medyasser-tech&theme=tokyonight"/>
 </p>
 
----
 
-# 📈 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7medyasser-tech&layout=compact&theme=tokyonight"/>
-</p>
-
----
