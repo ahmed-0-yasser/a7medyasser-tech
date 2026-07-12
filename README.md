@@ -1,16 +1,106 @@
-## Hi there 👋
+#  Ahmed Yasser 
 
-<!--
-**a7medyasser-tech/a7medyasser-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Junior Back-End Developer | .NET
 
-Here are some ideas to get you started:
+Computer and Information Technology Student passionate about building scalable backend systems using .NET technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  About Me
+
+-  Backend Developer specialized in ASP.NET Core
+-  Interested in Web APIs and Database Design
+-  Building real-world projects using .NET
+-  Always learning and improving my software engineering skills
+
+---
+
+##  Technologies & Tools
+
+### Backend
+- C#
+- ASP.NET Core Web API
+- ASP.NET MVC
+- Entity Framework Core
+- LINQ
+- RESTful APIs
+
+### Database
+- SQL Server
+- Database Design
+- Entity Relationships
+
+### Authentication
+- JWT Authentication
+- ASP.NET Identity
+- Role-Based Authorization
+
+### Tools
+- Visual Studio
+- Git & GitHub
+- Swagger
+- Postman
+
+---
+
+## 🚀 Featured Projects
+
+### 🦴 Skeletix - AI Bone Fracture Detection System
+
+Backend API for an AI-powered medical system that analyzes X-ray images and generates fracture detection reports.
+
+**Technologies:**
+- ASP.NET Core Web API
+- SQL Server
+- Entity Framework Core
+- AI Model Integration
+
+
+---
+
+### 🍽️ Restaurant API
+
+Complete backend system for restaurant management.
+
+Features:
+- Authentication & Authorization
+- Menu Management
+- Cart System
+- Orders Management
+- Reviews
+- Dashboard
+
+Technologies:
+- ASP.NET Core Web API
+- EF Core
+- SQL Server
+- JWT
+
+
+---
+
+### 🛒 SmartShop
+
+E-commerce system built using ASP.NET Core MVC.
+
+Features:
+- Product Management
+- Shopping Cart
+- User Authentication
+- Order Management
+
+Technologies:
+- ASP.NET MVC
+- Entity Framework Core
+- SQL Server
+
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn:
+https://www.linkedin.com/in/ahmed-0-yasser
+
+Email:
+ahmedyasirmohammad@gmail.com
