@@ -87,14 +87,6 @@ Java Swing Desktop Application.
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=a7medyasser-tech&show_icons=true&theme=tokyonight"/>
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -110,9 +102,3 @@ Java Swing Desktop Application.
 </p>
 
 ---
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/a7medyasser-tech/a7medyasser-tech/output/github-contribution-grid-snake.svg"/>
-</p>
