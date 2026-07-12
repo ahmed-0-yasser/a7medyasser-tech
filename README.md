@@ -1,105 +1,118 @@
-#  Ahmed Yasser 
+# Hi 👋, I'm Ahmed Yasser
 
 ## Junior Back-End Developer | .NET
 
-Junior Back-End Developer specialized in building scalable APIs and backend systems using .NET technologies.
 ---
 
-##  About Me
+# 💫 About Me
 
--  Backend Developer specialized in ASP.NET Core
--  Interested in Web APIs and Database Design
--  Building real-world projects using .NET
--  Always learning and improving my software engineering skills
+- 🎓 Information Technology Graduate from **The Egyptian E-Learning University (EELU)**
+- 💻 Junior Backend Developer specializing in **ASP.NET Core**
+- 🚀 Passionate about Backend Development and Software Engineering
+- 📚 Currently building production-style backend systems using .NET
 
 ---
 
-##  Technologies & Tools
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/ahmed-0-yasser">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+
+<a href="https://github.com/a7medyasser-tech">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
+
+<a href="mailto:ahmedyasirmohammad@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
 
 ### Backend
-- C#
-- ASP.NET Core Web API
-- ASP.NET MVC
-- Entity Framework Core
-- LINQ
-- RESTful APIs
+
+<p>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio" />
+</p>
 
 ### Database
-- SQL Server
-- Database Design
-- Entity Relationships
 
-### Authentication
-- JWT Authentication
-- ASP.NET Identity
-- Role-Based Authorization
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+SQL Server • Entity Framework Core • LINQ
 
 ### Tools
-- Visual Studio
-- Git & GitHub
-- Swagger
-- Postman
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman" />
+</p>
 
 ---
 
-##  Featured Projects
+# 🚀 Featured Projects
 
-###  Skeletix - AI Bone Fracture Detection System
+## 🦴 Skeletix
 
-Backend API for an AI-powered medical system that analyzes X-ray images and generates fracture detection reports.
-
-**Technologies:**
-- ASP.NET Core Web API
-- SQL Server
-- Entity Framework Core
-- AI Model Integration
-
+AI Bone Fracture Detection System built using ASP.NET Core Web API, SQL Server, Entity Framework Core, JWT Authentication, and AI Integration.
 
 ---
 
-###  Restaurant API
+## 🍽 Restaurant API
 
-Complete backend system for restaurant management.
-
-Features:
-- Authentication & Authorization
-- Menu Management
-- Cart System
-- Orders Management
-- Reviews
-- Dashboard
-
-Technologies:
-- ASP.NET Core Web API
-- EF Core
-- SQL Server
-- JWT
-
+Production-style Restaurant Management Backend using ASP.NET Core Web API.
 
 ---
 
-###  SmartShop
+## 🛒 SmartShop
 
-E-commerce system built using ASP.NET Core MVC.
-
-Features:
-- Product Management
-- Shopping Cart
-- User Authentication
-- Order Management
-
-Technologies:
-- ASP.NET MVC
-- Entity Framework Core
-- SQL Server
-
+Full-stack E-commerce System built using ASP.NET Core MVC.
 
 ---
 
-## 📫 Connect With Me
+## 📚 Student Management System
 
-LinkedIn:
-https://www.linkedin.com/in/ahmed-0-yasser
+Java Desktop Application for managing students.
 
-Email:
-ahmedyasirmohammad@gmail.com
+---
+
+## 🏥 Hospital Management System
+
+Java Swing Desktop Application.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=a7medyasser-tech&show_icons=true&theme=tokyonight"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=a7medyasser-tech&theme=tokyonight"/>
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7medyasser-tech&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/a7medyasser-tech/a7medyasser-tech/output/github-contribution-grid-snake.svg"/>
+</p>
