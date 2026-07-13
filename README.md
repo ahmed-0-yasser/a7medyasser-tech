@@ -26,54 +26,6 @@ Building scalable, secure, and maintainable backend systems using ASP.NET Core.
 ### 🚀 Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio"/>
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/ASP.NET_Core_Web_API-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
-<img src="https://img.shields.io/badge/ASP.NET_Core_MVC-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
-</p>
-
----
-
-### 🗄 Database
-
-<p>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
-</p>
-
----
-
-### 🔐 Authentication
-
-<p>
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens"/>
-<img src="https://img.shields.io/badge/ASP.NET_Identity-512BD4?style=for-the-badge"/>
-</p>
-
----
-
-### 🌐 Front-End
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery"/>
-</p>
-
----
-
-### 🛠 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,visualstudio"/>
-</p>
-
----
-# 💻 Tech Stack
-
-### 🚀 Backend
-
-<p>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio" />
 </p>
 
@@ -107,22 +59,13 @@ Building scalable, secure, and maintainable backend systems using ASP.NET Core.
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
   <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
 </p>
-# 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmed-0-yasser&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-0-yasser&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 # 🔥 GitHub Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ahmed-0-yasser&theme=tokyonight&hide_border=true" />
 </p>
-# 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmed-0-yasser&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=6" />
-</p>
 # 🚀 Featured Projects
 
 ## 🦴 Skeletix – AI Bone Fracture Detection System
