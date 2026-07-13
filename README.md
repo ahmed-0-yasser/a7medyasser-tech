@@ -177,7 +177,7 @@ https://github.com/ahmed-0-yasser/SmartShop
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/ahmed-0-yasser/ahmed-0-yasser/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ahmed-0-yasser/ahmed-0-yasser/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
