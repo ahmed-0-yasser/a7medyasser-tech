@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ahmed-0-yasser/ahmed-0-yasser/main/banner.png" width="100%" />
+</p>
 ---
 
 # 💫 About Me
