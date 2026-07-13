@@ -4,9 +4,9 @@
 
 <h1 align="center">Ahmed Yasser</h1>
 
-<h3 align="center">
-Junior Back-End .NET Developer
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Junior+Back-End+.NET+Developer;ASP.NET+Core+Web+API+Developer;Building+Scalable+RESTful+APIs;Clean+Architecture+Enthusiast;AI+Integration+%7C+SQL+Server;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
 
 <p align="center">
 Building scalable, secure, and maintainable backend systems using ASP.NET Core.
@@ -177,7 +177,11 @@ https://github.com/ahmed-0-yasser/SmartShop
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ahmed-0-yasser/a7medyasser-tech/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmed-0-yasser/a7medyasser-tech/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmed-0-yasser/a7medyasser-tech/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ahmed-0-yasser/a7medyasser-tech/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 ---
 
